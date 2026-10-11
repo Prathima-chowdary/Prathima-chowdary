@@ -1,27 +1,25 @@
+# Hi 👋, I'm Prathima Chowdary
 
-<h1 align="center">Hi 👋, I'm Prathima Chowdary</h1>
+### 🚀 Python Developer | Full-Stack Developer | Generative AI Enthusiast
 
-<h3 align="center">🐍 Python Developer | Full-Stack Development | Generative AI</h3>
+💻 Passionate about building web applications and AI-powered solutions.
 
-<p align="center">
-  Passionate about building useful applications and learning new technologies.
-</p>
+🎓 Undergraduate, 2026 Batch — Saveetha School of Engineering
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Developer;Full-Stack+Development+Enthusiast;Exploring+Generative+AI;Always+Learning+and+Building" alt="Typing introduction" />
-</p>
+🌱 Currently learning Python Full-Stack Development, Generative AI, and Machine Learning.
+
+🎯 Goal: To become a skilled software developer and build innovative real-world applications.
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Undergraduate from the 2026 batch of Saveetha School of Engineering.
-- 🐍 Interested in Python development and problem-solving.
-- 🌐 Exploring Python-based full-stack web development.
-- 🤖 Interested in Generative AI and AI-powered applications.
-- 💡 Enjoy developing practical projects and learning new technologies.
-- 🚀 Working towards becoming a skilled software developer.
-- 📌 Open to learning opportunities and suitable entry-level roles.
+- 🔭 Interested in Python development and full-stack web applications.
+- 🐍 Experienced in Python programming and object-oriented programming.
+- 🤖 Exploring Generative AI, machine learning, and AI-powered applications.
+- 🌐 Interested in creating responsive and user-friendly web applications.
+- 🧠 Enjoy solving problems and learning new technologies.
+- 🤝 Open to learning opportunities, collaboration, and software development projects.
 
 ---
 
@@ -29,75 +27,70 @@
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Web Technologies
+### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
+### Tools and Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### Areas of Interest
-`Full-Stack Development` · `Generative AI` · `Machine Learning` · `Problem Solving`
+
+- Python Full-Stack Development
+- Generative AI
+- Machine Learning
+- Data Analysis
+- Software Development
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
-### 1. Age from Faces
-- Developed as a deep-learning project focused on estimating age from facial images.
-- Explores computer vision and facial feature extraction.
-- **Technologies:** Python, OpenCV, CNN, Deep Learning.
+### 1. 🧑‍🦱 Age from Faces
+A deep-learning project focused on estimating age from facial images using computer vision and machine-learning techniques.
 
-### 2. Blood Bank Management System
-- Focuses on managing blood bank information and supporting donor and hospital workflows.
-- Explores data organization and deep-learning-based evaluation.
-- **Technologies:** Python, Machine Learning, Deep Learning, CSV.
+**Technologies:** Python, OpenCV, CNN, Deep Learning
 
-### 3. Automated Coconut Scraping Machine
-- A project designed to reduce manual effort in coconut scraping.
-- Focuses on automation, safety, and efficient operation.
-- **Technologies:** Mechanical Design, Automation, Motor-Based Mechanism.
+### 2. 🩸 Blood Bank Management System
+A project designed to help manage blood bank information, donor details, blood groups, and hospital-related blood availability.
 
-### 4. MyStore – E-Commerce Application
-- A web application concept for displaying products and managing a shopping cart.
-- Focuses on user interface design and essential e-commerce features.
-- **Technologies:** Python, HTML, CSS, Web Development.
+**Technologies:** Python, Database Management, Machine Learning
+
+### 3. 🥥 Automated Coconut Scraping Machine
+An engineering project designed to automate coconut scraping, reduce manual effort, and improve convenience and safety.
+
+**Technologies:** Mechanical Components, Motor, Automation
+
+### 4. 🛒 MyStore — E-commerce Web Application
+A web application concept for displaying products and supporting shopping-cart functionality with a user-friendly interface.
+
+**Technologies:** Python, HTML, CSS, JavaScript
 
 ---
 
-## 🎯 Career Goals
+## 📊 GitHub Statistics
 
-My goal is to become a skilled Python Full-Stack Developer and explore Generative AI to build practical, user-friendly applications. I aim to improve my programming skills, contribute to real-world projects, and grow as a software professional.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prathima-chowdary&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathima-chowdary&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/Prathima-chowdary">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/prathima12345">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:Prathimachowdary77@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/prathima12345/)
+- 🐙 GitHub: [Prathima-chowdary](https://github.com/Prathima-chowdary)
 
 ---
 
-## 💡 Developer Mindset
+### 💡 Developer Quote
 
-> Learn continuously, build consistently, and turn ideas into practical solutions.
+"Great things are built one line of code at a time."
 
-<p align="center">
-  ⭐ Thank you for visiting my GitHub profile! ⭐
-</p>
+⭐ Thank you for visiting my GitHub profile! Feel free to explore my repositories and projects.
