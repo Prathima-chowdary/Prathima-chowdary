@@ -1,6 +1,5 @@
-# Hi 👋, I'm Prathima Chowdary
-
-### 🚀 Python Developer | Full-Stack Developer | Generative AI Enthusiast
+👋 Hi, I'm Prathima Chowdary
+🚀 Python Developer | Full-Stack Developer | Generative AI Enthusiast
 
 💻 Passionate about building web applications and AI-powered solutions.
 
@@ -10,87 +9,86 @@
 
 🎯 Goal: To become a skilled software developer and build innovative real-world applications.
 
----
+![GitHub](https://img.shields.io/badge/GitHub-Prathima--chowdary-181717?style=for-the-badge&logo=github) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin)
 
-## 👩‍💻 About Me
+👩‍💻 About Me
+🔭 Interested in Python development and full-stack web applications.
+🐍 Experienced in Python programming and object-oriented programming.
+🤖 Exploring Generative AI, machine learning, and AI-powered applications.
+🌐 Interested in creating responsive and user-friendly web applications.
+🧠 Enjoy solving problems and learning new technologies.
+🤝 Open to learning opportunities, collaboration, internships, and software development projects.
+🛠️ Technical Skills
+💻 Programming Languages
 
-- 🔭 Interested in Python development and full-stack web applications.
-- 🐍 Experienced in Python programming and object-oriented programming.
-- 🤖 Exploring Generative AI, machine learning, and AI-powered applications.
-- 🌐 Interested in creating responsive and user-friendly web applications.
-- 🧠 Enjoy solving problems and learning new technologies.
-- 🤝 Open to learning opportunities, collaboration, and software development projects.
+!Python !Java !SQL
 
----
+🌐 Web Development
 
-## 🛠️ Technical Skills
+!HTML5 !CSS3 !JavaScript
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+⚙️ Tools and Technologies
 
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+!Git !GitHub !VS Code
 
-### Tools and Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+🧠 Areas of Interest
+Python Full-Stack Development
+Generative AI
+Machine Learning
+Data Analysis
+Software Development
+🚀 Featured Projects
+1. 🧑‍🦱 Age from Faces
 
-### Areas of Interest
-
-- Python Full-Stack Development
-- Generative AI
-- Machine Learning
-- Data Analysis
-- Software Development
-
----
-
-## 📌 Featured Projects
-
-### 1. 🧑‍🦱 Age from Faces
 A deep-learning project focused on estimating age from facial images using computer vision and machine-learning techniques.
 
-**Technologies:** Python, OpenCV, CNN, Deep Learning
+Technologies: Python, OpenCV, CNN, Deep Learning
 
-### 2. 🩸 Blood Bank Management System
-A project designed to help manage blood bank information, donor details, blood groups, and hospital-related blood availability.
+2. 🩸 Blood Bank Management System
 
-**Technologies:** Python, Database Management, Machine Learning
+A project designed to manage blood bank information, donor details, blood groups, and hospital-related blood availability.
 
-### 3. 🥥 Automated Coconut Scraping Machine
+Technologies: Python, Database Management, Machine Learning
+
+3. 🥥 Automated Coconut Scraping Machine
+
 An engineering project designed to automate coconut scraping, reduce manual effort, and improve convenience and safety.
 
-**Technologies:** Mechanical Components, Motor, Automation
+Technologies: Mechanical Components, Motor, Automation
 
-### 4. 🛒 MyStore — E-commerce Web Application
+4. 🛒 MyStore — E-commerce Web Application
+
 A web application concept for displaying products and supporting shopping-cart functionality with a user-friendly interface.
 
-**Technologies:** Python, HTML, CSS, JavaScript
+Technologies: Python, HTML, CSS, JavaScript
 
----
+📊 GitHub Statistics
+🔥 GitHub Stats
 
-## 📊 GitHub Statistics
+!Prathima's GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prathima-chowdary&show_icons=true&theme=tokyonight)
+💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathima-chowdary&layout=compact&theme=tokyonight)
+!Top Languages
 
----
+🔥 Contribution Streak
 
-## 🤝 Connect With Me
+!GitHub Streak
 
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/prathima12345/)
-- 🐙 GitHub: [Prathima-chowdary](https://github.com/Prathima-chowdary)
+📈 Contribution Activity Graph
 
----
+!Prathima's Contribution Graph
 
-### 💡 Developer Quote
+🏆 GitHub Trophies
 
+!GitHub Trophies
+
+🌐 Connect With Me
+💼 LinkedIn: Prathima Chowdary
+🐙 GitHub: Prathima-chowdary
+💡 Developer Quote
 "Great things are built one line of code at a time."
 
 ⭐ Thank you for visiting my GitHub profile! Feel free to explore my repositories and projects.
+
+✨ Keep Learning | Keep Building | Keep Growing ✨
