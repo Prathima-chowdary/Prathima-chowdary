@@ -1,4 +1,4 @@
-👋 Hi, I'm Prathima Chowdary
+Hi 👋, I'm Prathima Chowdary
 🚀 Python Developer | Full-Stack Developer | Generative AI Enthusiast
 
 💻 Passionate about building web applications and AI-powered solutions.
@@ -9,35 +9,33 @@
 
 🎯 Goal: To become a skilled software developer and build innovative real-world applications.
 
-![GitHub](https://img.shields.io/badge/GitHub-Prathima--chowdary-181717?style=for-the-badge&logo=github) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin)
-
 👩‍💻 About Me
 🔭 Interested in Python development and full-stack web applications.
 🐍 Experienced in Python programming and object-oriented programming.
 🤖 Exploring Generative AI, machine learning, and AI-powered applications.
 🌐 Interested in creating responsive and user-friendly web applications.
 🧠 Enjoy solving problems and learning new technologies.
-🤝 Open to learning opportunities, collaboration, internships, and software development projects.
+🤝 Open to learning opportunities, collaboration, and software development projects.
 🛠️ Technical Skills
-💻 Programming Languages
+Programming Languages
 
 !Python !Java !SQL
 
-🌐 Web Development
+Web Development
 
 !HTML5 !CSS3 !JavaScript
 
-⚙️ Tools and Technologies
+Tools and Technologies
 
 !Git !GitHub !VS Code
 
-🧠 Areas of Interest
+Areas of Interest
 Python Full-Stack Development
 Generative AI
 Machine Learning
 Data Analysis
 Software Development
-🚀 Featured Projects
+📌 Featured Projects
 1. 🧑‍🦱 Age from Faces
 
 A deep-learning project focused on estimating age from facial images using computer vision and machine-learning techniques.
@@ -46,7 +44,7 @@ Technologies: Python, OpenCV, CNN, Deep Learning
 
 2. 🩸 Blood Bank Management System
 
-A project designed to manage blood bank information, donor details, blood groups, and hospital-related blood availability.
+A project designed to help manage blood bank information, donor details, blood groups, and hospital-related blood availability.
 
 Technologies: Python, Database Management, Machine Learning
 
@@ -63,32 +61,31 @@ A web application concept for displaying products and supporting shopping-cart f
 Technologies: Python, HTML, CSS, JavaScript
 
 📊 GitHub Statistics
-🔥 GitHub Stats
+📈 GitHub Stats
 
-!Prathima's GitHub Stats
+!GitHub Stats
 
 💻 Most Used Languages
 
 !Top Languages
 
-🔥 Contribution Streak
+🔥 GitHub Contribution Streak
 
 !GitHub Streak
 
-📈 Contribution Activity Graph
+📉 Contribution Graph
 
-!Prathima's Contribution Graph
+!Contribution Graph
 
 🏆 GitHub Trophies
 
 !GitHub Trophies
 
-🌐 Connect With Me
-💼 LinkedIn: Prathima Chowdary
+🤝 Connect With Me
+💼 LinkedIn: Connect with me
 🐙 GitHub: Prathima-chowdary
 💡 Developer Quote
+
 "Great things are built one line of code at a time."
 
 ⭐ Thank you for visiting my GitHub profile! Feel free to explore my repositories and projects.
-
-✨ Keep Learning | Keep Building | Keep Growing ✨
